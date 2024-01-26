@@ -4,5 +4,9 @@ Bank Accounts Small Project
 
 - On this small project, I simulated bank accounts and transactions done between those accounts. It will show information for deposits, withdrawals and the ending balance.
 
-- I will share a screenshot, to show how it should look.
+- Here is a screenshot of how it should look:
 
+
+
+
+<img width="537" alt="Screen Shot 2024-01-26 at 3 02 45 AM" src="https://github.com/Christkd/Bank_Accounts/assets/111746737/322a4ced-25b6-4870-950c-1f21a3cf5508">
