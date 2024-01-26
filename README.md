@@ -2,7 +2,9 @@ Bank Accounts Small Project
 
 *This is a small project and practice of Python coding, it is of personal use only, to showcase and track my progress as an independent developer.*
 
-- On this small project, I simulated bank accounts and transactions done between those accounts. It will show information for deposits, withdrawals and the ending balance.
+- for bankac0.py, I simulated bank accounts and transactions done between those accounts. It will show information for deposits, withdrawals and the ending balance.
+- for bankacc.py, I simulated Users with bank accounts, their credentials and their total balance.
+
 
 - Here is a screenshot of how it should look:
 
