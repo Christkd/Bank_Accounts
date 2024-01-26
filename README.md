@@ -5,7 +5,7 @@ Bank Accounts Small Project
 - for bankac0.py, I simulated bank accounts and transactions done between those accounts. It will show information for deposits, withdrawals and the ending balance.
 - for bankacc.py, I simulated Users with bank accounts, their credentials and their total balance.
 
-- Each Python document needs to be runned through the terminal to be displayed. Below is a screenshot of how it should look:
+- Each Python document needs to be run through the terminal to be displayed. Below is a screenshot of how it should look:
 
 
 
